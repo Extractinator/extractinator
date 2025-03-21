@@ -1,10 +1,10 @@
 import { Beans } from './Beans.tsx';
 import { Grind } from './Grind.tsx';
 import React from 'react';
-import styles from './Extractinate.module.css';
 import commonStyles from './common.module.css';
-import useLocalStorage from 'use-local-storage';
 import img from '../sprites/thingy.png';
+import styles from './Extractinate.module.css';
+import useLocalStorage from 'use-local-storage';
 
 export type HistoryType = {
   grind: number;
