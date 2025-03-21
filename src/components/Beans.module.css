@@ -1,0 +1,9 @@
+.beans {
+  position: absolute;
+  width: 96px;
+  image-rendering: pixelated;
+  overflow: visible;
+  left: calc(50vw - 32px);
+  top: calc(-4rem);
+  z-index: -1;
+}

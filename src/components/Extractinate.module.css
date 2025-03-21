@@ -1,0 +1,17 @@
+.button {
+    margin: 2rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: 300;
+    width: calc(100% - 4rem);
+    background: rgb(255 255 255 / 25%);
+}
+
+.thingy {
+    width: 100vw;
+    image-rendering: pixelated;
+    position: absolute;
+    left: 0;
+    z-index: -1;
+    top: 5rem;
+}
